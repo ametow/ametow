@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Professional Experience
 
-#### Goalng Developer, Jan Tehnologiýa, Ashgabat, Turkmenistan [belet.me](https://belet.me/)
+#### Golang Developer, Jan Tehnologiýa, Ashgabat, Turkmenistan [belet.me](https://belet.me/)
 
 - Developing and maintaining APIs using Golang
 - Creating efficient and scalable databases using ClickHouse and Redis
