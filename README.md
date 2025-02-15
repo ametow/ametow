@@ -56,8 +56,8 @@
 
 ### 🏆 Certificates
 
-- AWS Solutions Architect Associate
-- Hackerrank Go Intermediate
+- [AWS Solutions Architect Associate](https://www.credly.com/badges/1d70701f-1852-4b3d-b28c-54d557241f07/linked_in_profile)
+- [Hackerrank Go Intermediate](https://www.hackerrank.com/certificates/0ce5a32eb0e9)
 
 ### 📚 Additional Information
 
