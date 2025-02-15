@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Contributed to development of MTProto protocol built on top of TCP; ensures secure communication between server and client applications
 - Integrated Apache Kafka for high-speed event streaming, enabling the system to handle millions of messages per second with minimal latency
 
-#### Fullstack Developer (~1.5 year), Turkmenportal. Ashgabat, Turkemenistan [Turkmenportal](https://turkmenportal.com/)
+#### Devops Engineer (~4 months), Belet Inc., Ashgabat, Turkmenistan [belet.me](https://belet.me/)
 
 - Implemented and monitored database streaming replication to scale read performance and reduce downtime, achieving 150% improvement in query response times.
 - Enhanced deployment pipelines by adopting GitOps practices with ArgoCD and Helm, resolving issues related to version control, rollback strategies, and standardizing deployment processes.
@@ -49,6 +49,16 @@ Here are some ideas to get you started:
 - Utilized Terraform and Ansible to automate infrastructure provisioning and configuration, achieving end-to-end deployment pipelines with minimal downtime.
 - Integrated Fluentd with Elasticsearch, Kibana, enabling real-time log visualization and analytics for operational insights.
 - Implemented distributed caching with Redis, enhancing system resilience and achieving sub-millisecond response times, even during peak traffic.
+
+#### Fullstack Developer Intern (~1.5 year), Turkmenportal. Ashgabat, Turkemenistan [Turkmenportal](https://turkmenportal.com/)
+
+- Contributed to a microservices-based system, learning Spring Cloud and distributed architecture best practices.
+- Developed efficient ORM mappings with Hibernate &amp; JPA, improving database interaction speed and reducing memory footprint.
+- Deployed Java applications on AWS (EC2, Lambda, S3, RDS Postgres), reducing infrastructure costs by 25% while improving availability.
+- Worked on the development of main backend service of Medical Clinic's project which provides RESTful APIs for client applications, written in Java using Spring.
+- Implemented OAuth2 &amp; JWT-based authentication in Hospital management project, securing API access, reducing unauthorized access incidents.
+- Gained experience with OAuth2 &amp; role-based access control (RBAC) to manage API security.
+
 
 ### 💻 Skills
 
