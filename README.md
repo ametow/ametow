@@ -18,44 +18,56 @@ Here are some ideas to get you started:
 
 ### :octocat: Arslan Ametov :octocat:
 
-📞 Phone: +993 63 988237
+📞 Phone: +16418192316
 📧 Email: dev.ametov@gmail.com
-🌐 Portfolio: [github.com](https://github.com/ametow) :shipit:
+🌐 Portfolio: [github.com](https://arslanbek.com) :shipit:
 
 ### 📚 Education
 
-- Self-education in programming through books and online courses
 - BS in Computer Science
 - MS in Computer Science (pending)
 
 ### 👨‍💻 Professional Experience
 
-#### Golang Developer, Jan Tehnologiýa, Ashgabat, Turkmenistan [belet.me](https://belet.me/)
+#### Golang Developer (~3 years), Belet Inc., Ashgabat, Turkmenistan [belet.me](https://belet.me/)
 
-- Developing and maintaining APIs using Golang
-- Creating efficient and scalable databases using ClickHouse and Redis
-- Developing and integrating RESTful APIs to interact with other services
-- Involvement in the entire development process, from design to deployment and product support
-- Optimizing code for performance improvement and enhancing user experience
+- Developed and deployed a scalable microservices architecture for messaging platform, resulting in a 25% reduction in latency and a 15% increase in system throughput by optimizing inter-service communication and load balancing
+- Designed a secure authentication and session management system, leveraging Go’s concurrency model to improve session tracking and security for millions of active connections
+- Implemented non-blocking asynchronous processing, reducing request latency and improving throughput using Goroutines and worker pools, enhancing real-time message delivery
+- Enhanced system reliability by implementing distributed logging using Jaeger, Fluentd
+- Optimized the performance of PostgreSQL queries by implementing indexing and query caching strategies, leading to a 20% reduction in resource consumption and a 10% improvement in application response time
+- Contributed to development of MTProto protocol built on top of TCP; ensures secure communication between server and client applications
+- Integrated Apache Kafka for high-speed event streaming, enabling the system to handle millions of messages per second with minimal latency
+
+#### Fullstack Developer (~1.5 year), Turkmenportal. Ashgabat, Turkemenistan [Turkmenportal](https://turkmenportal.com/)
+
+- Implemented and monitored database streaming replication to scale read performance and reduce downtime, achieving 150% improvement in query response times.
+- Enhanced deployment pipelines by adopting GitOps practices with ArgoCD and Helm, resolving issues related to version control, rollback strategies, and standardizing deployment processes.
+- Orchestrated the setup of Prometheus, Grafana, and Alert Manager to establish robust monitoring capabilities; empowered the team with real-time insights, leading to faster incident response.
+- Containerized microservices effectively by using multi-stage build method and caching which decreased build time by 140%.
+- Streamlined an automated CI/CD pipeline for building, testing, and deployment which saved around 30 minutes per deployment and tons of manual work by developers.
+- Utilized Terraform and Ansible to automate infrastructure provisioning and configuration, achieving end-to-end deployment pipelines with minimal downtime.
+- Integrated Fluentd with Elasticsearch, Kibana, enabling real-time log visualization and analytics for operational insights.
+- Implemented distributed caching with Redis, enhancing system resilience and achieving sub-millisecond response times, even during peak traffic.
 
 ### 💻 Skills
 
-- Programming Languages: Golang, Java, C#, BASH, SQL
-- Frameworks: Go-zero, Gin, Echo
-- Databases: ClickHouse, Redis, PostgreSQL, SQLite, MySQL, Dragonfly
-- Collaboration Tools: Git, GitHub, GitLab
+- Programming Languages: Golang, Java, SQL
+- Frameworks: Go-zero, Gin, Echo, Spring
+- Databases: PostgreSQL, MySQL, Aurora, ClickHouse, Redis, ElastiCache
 - Operating Systems: Linux, macOS, Windows
-- Others: Git, Docker, K8s, CI/CD, Gitops
+- Tools: AWS, Git, Docker, K8s, CI/CD, Gitops, Github, Gitlab, Vim, gRPC, Protobuf, AWS Serverless
 
-### 🏆 Achievements
+### 🏆 Certificates
 
-- At the request of companies, I searched for vulnerabilities on their websites and successfully eliminated them, providing them with assistance and support
+- AWS Solutions Architect Associate
+- Hackerrank Go Intermediate
 
 ### 📚 Additional Information
 
 - Open to teamwork and learning new technologies
 - Passionate about software development and constantly improving skills
-- Open to new challenges and willing to relocate
+- Open to new challenges and contributions to impactful projects
 
 ### 📃 Projects
 
