@@ -6,7 +6,7 @@
 
 📞 Phone: +16418192316
 📧 Email: dev.ametov@gmail.com
-🌐 Portfolio: [github.com](https://arslanbek.com) :shipit:
+🌐 Portfolio: [arslanbek.com](https://arslanbek.com) :shipit:
 
 ### 📚 Education
 
