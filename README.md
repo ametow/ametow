@@ -20,7 +20,7 @@
 - Developed and deployed a scalable microservices architecture for messaging platform, resulting in a 25% reduction in latency and a 15% increase in system throughput by optimizing inter-service communication and load balancing
 - Designed a secure authentication and session management system, leveraging Go’s concurrency model to improve session tracking and security for millions of active connections
 - Implemented non-blocking asynchronous processing, reducing request latency and improving throughput using Goroutines and worker pools, enhancing real-time message delivery
-- Enhanced system reliability by implementing distributed logging using Jaeger, Fluentd
+- Enhanced system reliability by implementing distributed logging using Fluentd
 - Optimized the performance of PostgreSQL queries by implementing indexing and query caching strategies, leading to a 20% reduction in resource consumption and a 10% improvement in application response time
 - Contributed to development of MTProto protocol built on top of TCP; ensures secure communication between server and client applications
 - Integrated Apache Kafka for high-speed event streaming, enabling the system to handle millions of messages per second with minimal latency
