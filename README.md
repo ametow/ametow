@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Professional Experience
 
-#### Golang Developer (~3 years), Belet Inc., Turkmenistan
+#### Golang Developer (3 years), Belet Inc., Turkmenistan
 
 - Developed and deployed a scalable microservices architecture for messaging platform, resulting in a 25% reduction in latency and a 15% increase in system throughput by optimizing inter-service communication and load balancing
 - Designed a secure authentication and session management system, leveraging Go’s concurrency model to improve session tracking and security for millions of active connections
@@ -25,7 +25,7 @@
 - Contributed to development of MTProto protocol built on top of TCP; ensures secure communication between server and client applications
 - Integrated Apache Kafka for high-speed event streaming, enabling the system to handle millions of messages per second with minimal latency
 
-#### Devops Engineer (~4 months), Belet Inc., Turkmenistan
+#### Devops Engineer (4 months), Belet Inc., Turkmenistan
 
 - Implemented and monitored database streaming replication to scale read performance and reduce downtime, achieving 150% improvement in query response times.
 - Enhanced deployment pipelines by adopting GitOps practices with ArgoCD and Helm, resolving issues related to version control, rollback strategies, and standardizing deployment processes.
@@ -36,7 +36,7 @@
 - Integrated Fluentd with Elasticsearch, Kibana, enabling real-time log visualization and analytics for operational insights.
 - Implemented distributed caching with Redis, enhancing system resilience and achieving sub-millisecond response times, even during peak traffic.
 
-#### Fullstack Developer Intern (~1.5 year), Turkmenportal, Turkemenistan
+#### Fullstack Developer Intern (6 months), Turkmenportal, Turkemenistan
 
 - Contributed to a microservices-based system, learning Spring Cloud and distributed architecture best practices.
 - Developed efficient ORM mappings with Hibernate &amp; JPA, improving database interaction speed and reducing memory footprint.
